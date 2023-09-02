@@ -1,7 +1,10 @@
 h1{
     text-align: center;
-    color: red;
+    color: rgb(15, 156, 221);
     font-size: 50px;
-    font-family: 'Rubik Iso', cursive;
+    font-family: 'Archivo Black', sans-serif;
 
+}
+body{
+    background-color: black;
 }
